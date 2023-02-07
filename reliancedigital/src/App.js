@@ -1,14 +1,29 @@
 
-import './App.css';
-import Login from './Pages/Login';
 
 function App() {
-  return (
-    <div className="App">
+  const [isLoading, setIsLoading] = useState(true);
+  useEffect(() => {
+      setIsLoading(true);
+      let timer = setTimeout(() => {
+          setIsLoading(false);
+          return () => clearInterval(timer);
+      }, 1000);
+  }, []);
+    return isLoading?(
+      <Loader/>
+    ):(
+    <>
+      <Navbar/>  
+        <div style={{marginTop : "150px"}}></div>
+        
+        <AllRoutes />
+    
       
-     
-    </div>
-  );
+      <Footer/>
+    </>
+    )
+
+
 }
 
 export default App;

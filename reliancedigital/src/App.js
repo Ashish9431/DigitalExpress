@@ -1,4 +1,10 @@
 
+import { useEffect, useState } from "react";
+import Footer from "./Components/Footer";
+import Loader from "./Components/Loader";
+import { Navbar } from "./Components/Navbar";
+
+import AllRoutes from "./Routers/AllRoutes";
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);

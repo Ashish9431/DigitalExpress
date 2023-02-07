@@ -1,5 +1,5 @@
 import { Box, Flex, Image, Text } from "@chakra-ui/react";
-import LoginForm from "../Components/LoginForm";
+// import LoginForm from "../Components/LoginForm";
 
 const Login = () => {
   return (
@@ -23,7 +23,7 @@ const Login = () => {
             Login As User
           </Text>
 
-          <LoginForm />
+          {/* <LoginForm /> */}
         </Box>
       </Flex>
     </Box>

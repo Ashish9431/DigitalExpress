@@ -4,7 +4,7 @@ Digital Xpress is ECommerce Website & is a clone of Reliance Digital. It is used
 
 ## Deployed Link
 
-Visit : https://adventurous-sweater-7809.vercel.app/
+Visit : https://loquacious-khapse-99dd61.netlify.app//
 
 ## Responsive for all screen sizes
 
@@ -22,10 +22,10 @@ Digital Express webiste looks very amazing and introduced with various type of l
  
  <ul dir="auto">
  
- <ol dir="auto">1. Cart Functionality (like adding an item and removing) </ol>
+ <ol dir="auto">4. Login and Sign Up </ol>
  <ol dir="auto">2. Admin Page</ol>
  <ol dir="auto">3. Admin can add a product product Will be shown on the latest page </ol>
- <ol dir="auto">4. Login and Sign Up </ol>
+ <ol dir="auto">1. Cart Functionality (like adding an item and removing) </ol>
  </ul>
  
  ## Admin Account Details(Admin Email and Password)
@@ -101,8 +101,6 @@ We using different kinds of the technologies to make this website. These things 
 
  Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-- [x] Abha Meshram - [GitHub Profile](https://github.com/abha2510)
-- [x] Mukesh Kaushal - [GitHub Profile](https://github.com/imukeshkaushal) 
-- [x] Rajat Agrawal - [GitHub Profile](https://github.com/agrawalrajat310)
-- [x] Tushit Saxena - [GitHub Profile](https://github.com/tushit99)
-- [x] Brajmohan Verma - [GitHub Profile](https://github.com/vermabraj)
+- [x] Ashish kumar - [GitHub Profile](https://github.com/Ashish9431)
+- [x] Sandip Suryavanshi - [GitHub Profile](https://github.com/Sandipgit2999 ) 
+

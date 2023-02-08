@@ -39,7 +39,7 @@ export const Navbar = () => {
             duration: 1200,
 
             render: () => (
-                <Flex color='white'  p={"10px"} bgColor='red' borderRadius={"10px"}>
+                <Flex color='white'  p={"10px"} style={{"backgroundColor":"rbg(221,61,67)"}} borderRadius={"10px"}>
 
                     <WarningIcon w={30} h={30} /><Text size="lg" ml="15px">You Are Not Login. Please Login Again!</Text>
                 </Flex >
@@ -95,7 +95,7 @@ export const Navbar = () => {
             <RouterLink to="/">
             <Image
              mb={2}
-              src="https://i.ibb.co/fCTrHJP/New-Project-4.png"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNHgIFSc2mxeYRg93w-0MVwS11sNWovc1Vp-GnBrD&s"
               alt="logo"
             />
             </RouterLink>

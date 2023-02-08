@@ -6,7 +6,7 @@ const Loader = () => {
     return (
         <div>
         <Load>
-           <Image height = {"100px"} width = "300px" src="https://i.ibb.co/6NyYS2H/New-Project-5.png" alt="logo"/>
+           <Image height = {"100px"} width = "300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNHgIFSc2mxeYRg93w-0MVwS11sNWovc1Vp-GnBrD&s" alt="logo"/>
         </Load>
         </div>
     );
